@@ -1,5 +1,13 @@
 title	type	url_slug	venue	date	location	talk_url	description
-Talk 1 on Relevant Topic in Your Field	Talk	talk-1	UC San Francisco, Department of Testing	2012-03-01	San Francisco, California		This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Tutorial 1 on Relevant Topic in Your Field	Tutorial	tutorial-1	UC-Berkeley Institute for Testing Science	2013-03-01	Berkeley CA, USA	http://exampleurl.com	This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Talk 2 on Relevant Topic in Your Field	Talk	talk-2	London School of Testing	2014-02-01	London, UK	http://example2.com	This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Conference Proceeding talk 3 on Relevant Topic in Your Field	Conference proceedings talk	talk-3	Testing Institute of America 2014 Annual Conference	2014-03-01	Los Angeles, CA		This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+"How Internal and External Processes Control Variability in the Location of the Southern Hemisphere Jetstream"	Talk	mcw22	Midwest Climate Workshop	2022-09-01	West Lafayette, IN, USA
+"Diabatic Heating Increases Southern Annular Mode Persistence in MERRA2 by Modifying Anticyclonic Wave Breaking"	Talk	aofd22	AMS Conference on Atmospheric and Ocean Fluid Dynamics	2022-06-01	Breckenridge, CO, USA
+"Revisiting the Role of Diabatic Eddy Generation in the Persistence of the Southern Annular Mode"	Talk	xroads22	Crossroads Conference	2022-03-01	Bloomington, IN, USA
+"How Do the Dominant Modes of Jet Variability Respond to Diabatic Heat Sources?"	Talk	agu21	AGU Fall Meeting	2021-12-01	New Orleans, LA, USA
+Machine Learning Workshop	Tutorial	easmlw	Indiana University Bloomington	2021-10-01	Bloomington, IN, USA
+"The Wavy Rain: How the 'Local Hydrologic Cycle' Diagnoses the Dynamical Drivers of Wet (and Dry) Anomalies"	Talk	pusem21	Purdue University “Storm Snacks” Seminar	2021-10-01	Virtual
+"How Moist and Dry Intrusions Control the Local Hydrologic Cycle in Present and Future Climates" 	Talk	agu20	AGU Fall Meeting	2020-12-01	Virtual
+"How much will a changing meridional surface temperature gradient affect the midlatitudes?"	Talk	agu19	AGU Fall Meeting	2019-12-01	San Francisco, CA, USA
+"Dynamics Behind Forced Wet and Dry Extremes in CESM LENS"	Talk	aofd19	AMS Conference on Atmospheric and Ocean Fluid Dynamics	2019-06-01	Portland, ME, USA
+"Anthropogenic Impacts on Hydrologic Cycle Extremes Mediated by Large-Scale Atmospheric Turbulence"	Talk	xroads18	Crossroads Conference	2019-03-01	Bloomington, IN, USA
+"Zonal-mean Zonal Wind Response to Surface Heat Fluxes over the North Atlantic: a Wave Activity Approach"	Talk	agu18	AGU Fall Meeting	2018-12-01	Washington, DC, USA
+"Response of Hydrologic Cycle Extremes over the U.S to Climate Change in CESM LENS"	Talk	mscar18	Midwest Student Conference on Atmospheric Research	2018-10-01	Urbana-Champagne, IL, USA

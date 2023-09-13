@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * B.A., cum laude, Music and Physics. [Butler University](https://www.butler.edu/arts-sciences/physics-astronomy-astrophysics/). 2015.
-* (expected) Ph.D, Atmospheric Science. [Indiana University Bloomington](https://earth.indiana.edu/). 2023.
+* Ph.D, Atmospheric Science. [Indiana University Bloomington](https://earth.indiana.edu/). 2023.
   
 Publications
 ======
@@ -32,7 +32,7 @@ Awards
 
 Work experience
 ======
-* 2021-2022: FINESST Fellow
+* 2021-2023: FINESST Fellow
   * Indiana University Bloomington
   * Duties included: Analyzing hydrologic cycle in satellite data, analyzing circulation variability
   * PI: Paul Staten, Associate Professor of Atmospheric Science

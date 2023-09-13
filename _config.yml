@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sam Smith"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate in Atmospheric Science"
-  location         : "Bloomington, IN, USA"
+  bio              : "Postdoc in Atmospheric Science"
+  location         : "Chicago, IL, USA"
   employer         :
   pubmed           : 
   googlescholar    : https://scholar.google.com/citations?user=h90ii6cAAAAJ
-  email            : "samjsmit@iu.edu"
+  email            : "samuelsmith@uchicago.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        : "Sjsmith757"
 
 
 # Reading Files

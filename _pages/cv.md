@@ -15,7 +15,11 @@ Education
 ======
 * B.A., cum laude, Music and Physics. [Butler University](https://www.butler.edu/arts-sciences/physics-astronomy-astrophysics/). 2015.
 * Ph.D, Atmospheric Science. [Indiana University Bloomington](https://earth.indiana.edu/). 2023.
-  
+
+Employment
+====== 
+* Postdoctoral Scholar, University of Chicago. Chicago, IL. 2023-present.
+
 Publications
 ======
   <ul>{% for post in site.publications %}

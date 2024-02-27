@@ -20,11 +20,13 @@ Employment
 ====== 
 * Postdoctoral Scholar, University of Chicago. Chicago, IL. 2023-present.
 
-Publications
+Selected Publications<sup>&#8224;</sup>
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+<sup>&#8224;</sup>see [my full CV](/files/CV.pdf) for a complete listing
 
 Awards
 ======
@@ -68,6 +70,7 @@ Work experience
 
 Talks
 ======
+[See a map of all the places I've given a talk!](/talkmap.html)
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>

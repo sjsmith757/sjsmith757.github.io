@@ -13,8 +13,8 @@ redirect_from:
 
 Education
 ======
-* B.A., cum laude, Music and Physics. [Butler University](https://www.butler.edu/arts-sciences/physics-astronomy-astrophysics/). 2015.
 * Ph.D, Atmospheric Science. [Indiana University Bloomington](https://earth.indiana.edu/). 2023.
+* B.A., cum laude, Music and Physics. [Butler University](https://www.butler.edu/arts-sciences/physics-astronomy-astrophysics/). 2015.
 
 Employment
 ====== 

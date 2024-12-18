@@ -14,4 +14,4 @@ I received my PhD in 2023 from the [Department of Earth & Atmospheric Sciences](
 
 My research tries to understand the role of the large-scale atmospheric circulation in the climate system, with a focus on the jet stream. I am particularly interested in [how the jet stream influences extremes in the water cycle](https://dx.doi.org/10.1175/JCLI-D-20-0780.1), as well as [why the jet's position fluctuates on monthly-to-yearly timescales](https://dx.doi.org/10.1175/JAS-D-23-0019.1).
 
-I'm also a co-developer for the [PyTropD library](https://github.com/tropd/pytropd/) for identifying major features in the atmospheric circulation and comparing metrics of tropical widening. In my free time, I enjoy reading, cycling, training Pok&#x00E9;mon, and walking [my dog](/images/remi.jpg).
+I'm also a co-developer for the [PyTropD library](https://github.com/tropd/pytropd/) for identifying major features in the atmospheric circulation and comparing metrics of tropical widening. In my free time, I enjoy reading, cycling, and walking [my dog](/images/remi.jpg).

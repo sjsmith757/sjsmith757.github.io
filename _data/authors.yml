@@ -1,9 +1,10 @@
 # Authors
 
 Samuel Smith:
-  name        : "Samuel Smith"
-  uri         : "http://sjsmith757.github.io"
-  email       : "samuelsmith@uchicago.edu"
-  bio         : "Postdoctoral Researcher in Atmospheric Science at The University of Chicago"
-  avatar      : "headshot.jpg"
-  twitter     : "Samuel_Smith0"
+  name          : "Samuel Smith"
+  uri           : "http://sjsmith757.github.io"
+  email         : "samuelsmith@uchicago.edu"
+  bio           : "Postdoctoral Researcher in Atmospheric Science at The University of Chicago"
+  avatar        : "headshot.jpg"
+  twitter       : "Samuel_Smith0"
+  googlescholar : "https://scholar.google.com/citations?user=h90ii6cAAAAJ"

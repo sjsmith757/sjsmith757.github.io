@@ -86,7 +86,7 @@ author:
   location         : "Chicago, IL, USA"
   employer         :
   pubmed           : 
-  googlescholar    : https://scholar.google.com/citations?user=h90ii6cAAAAJ
+  googlescholar    : "https://scholar.google.com/citations?user=h90ii6cAAAAJ"
   email            : "samuelsmith@uchicago.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
